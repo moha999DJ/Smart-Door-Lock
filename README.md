@@ -3,7 +3,7 @@ Smart Door Lock project using Arduino
 <h2>The materials that you need is :</h2>
 <ol>
 <li>Arduino UNO (you can use Mega or whatever you want 😄) </li>
-<li>Lcd 16*2 </li>
+<li>Lcd 16*2</li>
 <li>Keypad</li>
 <li>Wires </li>
 </ol>
